@@ -1,5 +1,6 @@
 # Materiais de Estudo - Inteligência Artificial (AI) :robot:
-Nesse repositório vou disponibilizar links para livros/cursos gratuitos que me ajudarem à entender e usar AI. Vou tentar ordenar todos.
+Nesse repositório vou disponibilizar links para livros/cursos gratuitos que me ajudarem à entender e usar AI. Vou tentar ordenar todos.<br>
+Vou adicionando links aqui de acordo com meus estudos. Caso queira adicionar algo, abra um <a href="https://github.com/saulojoab/material-de-estudo-AI/issues">Issue</a>
 ## Conhecimentos Matemáticos:
 <h5>Fonte: <a href="https://towardsdatascience.com/mathematics-for-ai-all-the-essential-math-topics-you-need-ed1d9c910baf">aqui!</a></h5>
 
@@ -17,3 +18,7 @@ Nesse repositório vou disponibilizar links para livros/cursos gratuitos que me 
   - Gradiente
   - Cálculos de Vetores e Matrizes
   - Algoritmos Gradientes
+- <b>PROBABILIDADE</b>
+  - Regras básicas e Axiomas
+  - Variáveis Aleatórias
+  - Teorema de Bayes
