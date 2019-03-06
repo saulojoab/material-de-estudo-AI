@@ -26,3 +26,4 @@ Nesse repositório vou disponibilizar links para livros/cursos gratuitos que me 
 - <b>Itens Soltos (Vou ordenar tudo depois)</b>.
   - <a href="http://joinville.ifsc.edu.br/~julio.tomio/">http://joinville.ifsc.edu.br/~julio.tomio/</a>
   - <a href="http://mtm.ufsc.br/~ismaelr/Geometria%20Analitica%20MTM5512/">http://mtm.ufsc.br/~ismaelr/Geometria%20Analitica%20MTM5512/</a>
+  - <a href="http://gradmat.ufabc.edu.br/disciplinas/listas/ga/notasdeaulas/geometriaanaliticaevetorial-SGD.pdf">http://gradmat.ufabc.edu.br/disciplinas/listas/ga/notasdeaulas/geometriaanaliticaevetorial-SGD.pdf</a>
