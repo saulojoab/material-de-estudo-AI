@@ -5,6 +5,7 @@ Nesse repositório vou disponibilizar links para livros/cursos gratuitos que me 
 <h5>Fonte: <a href="https://towardsdatascience.com/mathematics-for-ai-all-the-essential-math-topics-you-need-ed1d9c910baf">aqui!</a></h5>
 
 - <b>GEOMETRIA ANALÍTICA</b>
+  - <a href="https://portaldosaber.obmep.org.br/uploads/msg/bpjqwe7waygwk.pdf">Pontos, Retas e Planos</a>
   - <a href="http://www.mat.ufrgs.br/~portosil/geometria-analitica-ufma.pdf">Geometria Analítica - UFMA</a> (PDF)
 - <b>ÁLGEBRA LINEAR</b>
   - Vetores
