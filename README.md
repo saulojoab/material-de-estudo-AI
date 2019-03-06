@@ -27,3 +27,5 @@ Nesse repositório vou disponibilizar links para livros/cursos gratuitos que me 
   - <a href="http://joinville.ifsc.edu.br/~julio.tomio/">http://joinville.ifsc.edu.br/~julio.tomio/</a>
   - <a href="http://mtm.ufsc.br/~ismaelr/Geometria%20Analitica%20MTM5512/">http://mtm.ufsc.br/~ismaelr/Geometria%20Analitica%20MTM5512/</a>
   - <a href="http://gradmat.ufabc.edu.br/disciplinas/listas/ga/notasdeaulas/geometriaanaliticaevetorial-SGD.pdf">http://gradmat.ufabc.edu.br/disciplinas/listas/ga/notasdeaulas/geometriaanaliticaevetorial-SGD.pdf</a>
+  - <a href="http://hostel.ufabc.edu.br/~daniel.miranda/livros/geometria-analitica/split/"></a>
+  - <a href="http://hostel.ufabc.edu.br/~daniel.miranda/livros/geometria-analitica/split/"></a>
