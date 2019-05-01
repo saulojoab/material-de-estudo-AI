@@ -1,6 +1,11 @@
 # Materiais de Estudo - Inteligência Artificial (AI) :robot:
 Nesse repositório vou disponibilizar links para livros/cursos gratuitos que me ajudarem à entender e usar AI. <b>Vou tentar ordenar todos.</b> Vou adicionando links aqui de acordo com meus estudos. Caso queira adicionar algo, abra um <a href="https://github.com/saulojoab/material-de-estudo-AI/issues">Issue</a>.
 
+## AI Propriamente Dito:
+ - Neural Networks:
+    - Video-aula muito boa (3 partes):
+      - <a href="https://www.youtube.com/watch?v=vbf4IzvXvuM">Parte 1</a>
+
 ## Conhecimentos Matemáticos:
 <h5>Fonte: <a href="https://towardsdatascience.com/mathematics-for-ai-all-the-essential-math-topics-you-need-ed1d9c910baf">aqui!</a></h5>
 
