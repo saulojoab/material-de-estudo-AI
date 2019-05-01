@@ -3,8 +3,7 @@ Nesse repositório vou disponibilizar links para livros/cursos gratuitos que me 
 
 ## AI Propriamente Dito:
  - Neural Networks:
-    - Video-aula muito boa (3 partes):
-      - <a href="https://www.youtube.com/watch?v=vbf4IzvXvuM">Parte 1</a>
+    - Video-aula muito boa (3 partes): <a href="https://www.youtube.com/watch?v=vbf4IzvXvuM">Parte 1</a>
 
 ## Conhecimentos Matemáticos:
 <h5>Fonte: <a href="https://towardsdatascience.com/mathematics-for-ai-all-the-essential-math-topics-you-need-ed1d9c910baf">aqui!</a></h5>
